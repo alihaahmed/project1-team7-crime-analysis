@@ -21,10 +21,13 @@ Resources:
 
 Breakdown of Tasks:
 -   Data retrieval and cleaning : all
+  
 o	    Toronto Police Major Crime Indicators API/CSV: Hicham
 o	    Toronto Police Victim of Crime API: Rita
 o	    Climate Data API: Aliha
+
 -	Analysis and visualization of data using Pandas:
+  
 o	    Part 1: Hicham
 o	    Part 2: Aliha (crime and weather) and Rita (crime and age/gender)
 
